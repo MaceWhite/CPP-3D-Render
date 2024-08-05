@@ -1,1 +1,1 @@
-Clang, GCC, and MSVC weren't working, so I don't know if this actually does anything
+A little SDL program that renders a rotating cube using points
